@@ -4,7 +4,7 @@ A tarefa de inserir dados envolve o uso do JDBC (Java Database Connectivity) par
 instruções SQL de inserção ao banco de dados, possibilitando a adição de novos registros 
 em tabelas específicas.
 
-## Interfaces utilizadas: <br>
+## API: <br>
 o PreparedStatement <br>
 o executeUpdate <br>
 o Statement.RETURN_GENERATED_KEYS <br>
